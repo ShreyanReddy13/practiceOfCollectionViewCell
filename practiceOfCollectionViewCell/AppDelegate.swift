@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  practiceOfCollectionViewCell
 //
-//  Created by Prathima Juturu Chinna on 03/05/22.
+//  Created by Shreyan on 03/05/22.
 //
 
 import UIKit
